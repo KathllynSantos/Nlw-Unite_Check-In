@@ -13,9 +13,14 @@ O sistema de check-in foi desenvolvido utilizando as tecnologias clássicas da w
 - Adição de novos participantes de forma interativa.
 - Funcionalidade completa de check-in para todos os participantes.
 
+  ## 💻 Projeto
+
   <p align="center">
   <img alt="Preview do projeto desenvolvido." src="./img/preview.png" width="60%">
-</p>
+</p> 
+  <p align="center">
+    <a  href="https://kathllynsantos.github.io/GTAV_Projeto " target="_blank" > Teste aqui o projeto</a>
+  </p>
 
 ## Funcionalidades
 
