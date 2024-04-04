@@ -13,6 +13,10 @@ O sistema de check-in foi desenvolvido utilizando as tecnologias clássicas da w
 - Adição de novos participantes de forma interativa.
 - Funcionalidade completa de check-in para todos os participantes.
 
+  <p align="center">
+  <img alt="Preview do projeto desenvolvido." src="./img/preview.png" width="60%">
+</p>
+
 ## Funcionalidades
 
 - **Atualização de Inscrição:** Os participantes podem atualizar suas informações de inscrição de forma simples e rápida.
